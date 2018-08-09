@@ -16,4 +16,5 @@ It contains :
   5.login.php - For login in session
   6.logout.php - For destroy the session
   
+ Download zip file from it and extract it, import test.sql file in your database and move php scripts into your server folder
  
